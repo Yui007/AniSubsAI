@@ -1,6 +1,6 @@
 # AniSubsAI
 
-A desktop application for transcribing and translating audio files to generate subtitles, built with Python and PyQt6.
+A desktop application for transcribing and translating audio files especially made for anime to generate subtitles, built with Python and PyQt6.
 
 ## Overview
 
