@@ -1,0 +1,6 @@
+faster-whisper
+PyQt6
+google-generativeai
+python-dotenv
+ffmpeg-python
+deep-translator
